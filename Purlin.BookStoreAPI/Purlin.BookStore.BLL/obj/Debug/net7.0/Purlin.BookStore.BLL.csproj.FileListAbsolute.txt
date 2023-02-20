@@ -1,0 +1,15 @@
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\bin\Debug\net7.0\Purlin.BookStore.BLL.deps.json
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\bin\Debug\net7.0\Purlin.BookStore.BLL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\bin\Debug\net7.0\Purlin.BookStore.BLL.pdb
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.csproj.AssemblyReference.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.AssemblyInfoInputs.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.AssemblyInfo.cs
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\refint\Purlin.BookStore.BLL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.pdb
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\ref\Purlin.BookStore.BLL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\bin\Debug\net7.0\Purlin.BookStore.DAL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\bin\Debug\net7.0\Purlin.BookStore.DAL.pdb
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.BLL\obj\Debug\net7.0\Purlin.BookStore.BLL.csproj.CopyComplete

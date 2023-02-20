@@ -1,0 +1,14 @@
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\bin\Debug\net7.0\Purlin.BookStore.DAL.deps.json
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\bin\Debug\net7.0\Purlin.BookStore.DAL.runtimeconfig.json
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\bin\Debug\net7.0\Purlin.BookStore.DAL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\bin\Debug\net7.0\Purlin.BookStore.DAL.pdb
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.csproj.AssemblyReference.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.AssemblyInfoInputs.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.AssemblyInfo.cs
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\refint\Purlin.BookStore.DAL.dll
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.pdb
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\Purlin.BookStore.DAL.genruntimeconfig.cache
+C:\Users\Armen Grigoryan\source\repos\Purlin.BookStoreAPI\Purlin.BookStore.DAL\obj\Debug\net7.0\ref\Purlin.BookStore.DAL.dll
